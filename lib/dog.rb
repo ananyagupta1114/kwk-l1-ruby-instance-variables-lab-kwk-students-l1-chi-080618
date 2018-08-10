@@ -14,4 +14,4 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
 
-Puts lassie.name
+puts lassie.name
